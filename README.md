@@ -32,3 +32,5 @@ Simple age and gender detector using Machine learning
 8.Click on detect button
 
 9.View results
+
+https://github.com/saatvika-kondepudi/Age-and-Gender-Detection/blob/main/Age_Sex_Detection.keras
