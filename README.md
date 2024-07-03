@@ -21,7 +21,7 @@ Simple age and gender detector using Machine learning
 
 3.Extract the dataset to your repository folder.
 
-4.Open the Model jupyter notebool
+4.Open the Model jupyter notebook (https://github.com/saatvika-kondepudi/Age-and-Gender-Detection/blob/main/model.ipynb)
 
 5.Run this notebook
 
