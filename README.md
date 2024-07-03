@@ -5,7 +5,7 @@ Simple age and gender detector using Machine learning
 
 1.Clone this repository
 
-2.Run the gui.py (https://github.com/saatvika-kondepudi/Age-and-Gender-Detection/blob/main/gui.py) file
+2.Run the gui.py file (https://github.com/saatvika-kondepudi/Age-and-Gender-Detection/blob/main/gui.py) 
 
 3.Upload the Image you want to detect
 
